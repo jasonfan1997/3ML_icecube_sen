@@ -1,0 +1,8 @@
+result_dir/
+logs/
+flux/logs/
+*.npy
+*.zip
+*.log
+*.err
+*.out

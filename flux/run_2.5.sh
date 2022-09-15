@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/convertflux.py --dec $1 --index 2.5 --wrkdir /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/result_2.5

@@ -1,0 +1,1360 @@
+JOB 3ml_sen_-85.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_0 JOBNAME="3ml_sen_-85.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 0 1"
+JOB 3ml_sen_-85.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_1 JOBNAME="3ml_sen_-85.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 1 1"
+JOB 3ml_sen_-85.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_2 JOBNAME="3ml_sen_-85.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 2 1"
+JOB 3ml_sen_-85.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_3 JOBNAME="3ml_sen_-85.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 3 1"
+JOB 3ml_sen_-85.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_4 JOBNAME="3ml_sen_-85.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 4 1"
+JOB 3ml_sen_-85.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_5 JOBNAME="3ml_sen_-85.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 5 1"
+JOB 3ml_sen_-85.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_6 JOBNAME="3ml_sen_-85.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 6 1"
+JOB 3ml_sen_-85.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_7 JOBNAME="3ml_sen_-85.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 7 1"
+JOB 3ml_sen_-85.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_8 JOBNAME="3ml_sen_-85.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 8 1"
+JOB 3ml_sen_-85.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-85.0_9 JOBNAME="3ml_sen_-85.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -85.0 9 1"
+JOB 3ml_sen_-82.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_0 JOBNAME="3ml_sen_-82.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 0 1"
+JOB 3ml_sen_-82.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_1 JOBNAME="3ml_sen_-82.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 1 1"
+JOB 3ml_sen_-82.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_2 JOBNAME="3ml_sen_-82.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 2 1"
+JOB 3ml_sen_-82.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_3 JOBNAME="3ml_sen_-82.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 3 1"
+JOB 3ml_sen_-82.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_4 JOBNAME="3ml_sen_-82.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 4 1"
+JOB 3ml_sen_-82.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_5 JOBNAME="3ml_sen_-82.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 5 1"
+JOB 3ml_sen_-82.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_6 JOBNAME="3ml_sen_-82.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 6 1"
+JOB 3ml_sen_-82.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_7 JOBNAME="3ml_sen_-82.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 7 1"
+JOB 3ml_sen_-82.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_8 JOBNAME="3ml_sen_-82.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 8 1"
+JOB 3ml_sen_-82.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-82.5_9 JOBNAME="3ml_sen_-82.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -82.5 9 1"
+JOB 3ml_sen_-80.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_0 JOBNAME="3ml_sen_-80.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 0 1"
+JOB 3ml_sen_-80.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_1 JOBNAME="3ml_sen_-80.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 1 1"
+JOB 3ml_sen_-80.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_2 JOBNAME="3ml_sen_-80.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 2 1"
+JOB 3ml_sen_-80.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_3 JOBNAME="3ml_sen_-80.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 3 1"
+JOB 3ml_sen_-80.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_4 JOBNAME="3ml_sen_-80.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 4 1"
+JOB 3ml_sen_-80.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_5 JOBNAME="3ml_sen_-80.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 5 1"
+JOB 3ml_sen_-80.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_6 JOBNAME="3ml_sen_-80.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 6 1"
+JOB 3ml_sen_-80.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_7 JOBNAME="3ml_sen_-80.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 7 1"
+JOB 3ml_sen_-80.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_8 JOBNAME="3ml_sen_-80.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 8 1"
+JOB 3ml_sen_-80.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-80.0_9 JOBNAME="3ml_sen_-80.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -80.0 9 1"
+JOB 3ml_sen_-77.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_0 JOBNAME="3ml_sen_-77.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 0 1"
+JOB 3ml_sen_-77.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_1 JOBNAME="3ml_sen_-77.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 1 1"
+JOB 3ml_sen_-77.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_2 JOBNAME="3ml_sen_-77.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 2 1"
+JOB 3ml_sen_-77.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_3 JOBNAME="3ml_sen_-77.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 3 1"
+JOB 3ml_sen_-77.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_4 JOBNAME="3ml_sen_-77.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 4 1"
+JOB 3ml_sen_-77.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_5 JOBNAME="3ml_sen_-77.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 5 1"
+JOB 3ml_sen_-77.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_6 JOBNAME="3ml_sen_-77.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 6 1"
+JOB 3ml_sen_-77.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_7 JOBNAME="3ml_sen_-77.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 7 1"
+JOB 3ml_sen_-77.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_8 JOBNAME="3ml_sen_-77.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 8 1"
+JOB 3ml_sen_-77.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-77.5_9 JOBNAME="3ml_sen_-77.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -77.5 9 1"
+JOB 3ml_sen_-75.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_0 JOBNAME="3ml_sen_-75.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 0 1"
+JOB 3ml_sen_-75.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_1 JOBNAME="3ml_sen_-75.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 1 1"
+JOB 3ml_sen_-75.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_2 JOBNAME="3ml_sen_-75.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 2 1"
+JOB 3ml_sen_-75.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_3 JOBNAME="3ml_sen_-75.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 3 1"
+JOB 3ml_sen_-75.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_4 JOBNAME="3ml_sen_-75.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 4 1"
+JOB 3ml_sen_-75.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_5 JOBNAME="3ml_sen_-75.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 5 1"
+JOB 3ml_sen_-75.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_6 JOBNAME="3ml_sen_-75.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 6 1"
+JOB 3ml_sen_-75.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_7 JOBNAME="3ml_sen_-75.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 7 1"
+JOB 3ml_sen_-75.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_8 JOBNAME="3ml_sen_-75.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 8 1"
+JOB 3ml_sen_-75.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-75.0_9 JOBNAME="3ml_sen_-75.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -75.0 9 1"
+JOB 3ml_sen_-72.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_0 JOBNAME="3ml_sen_-72.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 0 1"
+JOB 3ml_sen_-72.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_1 JOBNAME="3ml_sen_-72.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 1 1"
+JOB 3ml_sen_-72.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_2 JOBNAME="3ml_sen_-72.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 2 1"
+JOB 3ml_sen_-72.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_3 JOBNAME="3ml_sen_-72.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 3 1"
+JOB 3ml_sen_-72.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_4 JOBNAME="3ml_sen_-72.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 4 1"
+JOB 3ml_sen_-72.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_5 JOBNAME="3ml_sen_-72.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 5 1"
+JOB 3ml_sen_-72.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_6 JOBNAME="3ml_sen_-72.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 6 1"
+JOB 3ml_sen_-72.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_7 JOBNAME="3ml_sen_-72.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 7 1"
+JOB 3ml_sen_-72.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_8 JOBNAME="3ml_sen_-72.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 8 1"
+JOB 3ml_sen_-72.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-72.5_9 JOBNAME="3ml_sen_-72.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -72.5 9 1"
+JOB 3ml_sen_-70.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_0 JOBNAME="3ml_sen_-70.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 0 1"
+JOB 3ml_sen_-70.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_1 JOBNAME="3ml_sen_-70.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 1 1"
+JOB 3ml_sen_-70.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_2 JOBNAME="3ml_sen_-70.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 2 1"
+JOB 3ml_sen_-70.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_3 JOBNAME="3ml_sen_-70.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 3 1"
+JOB 3ml_sen_-70.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_4 JOBNAME="3ml_sen_-70.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 4 1"
+JOB 3ml_sen_-70.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_5 JOBNAME="3ml_sen_-70.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 5 1"
+JOB 3ml_sen_-70.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_6 JOBNAME="3ml_sen_-70.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 6 1"
+JOB 3ml_sen_-70.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_7 JOBNAME="3ml_sen_-70.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 7 1"
+JOB 3ml_sen_-70.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_8 JOBNAME="3ml_sen_-70.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 8 1"
+JOB 3ml_sen_-70.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-70.0_9 JOBNAME="3ml_sen_-70.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -70.0 9 1"
+JOB 3ml_sen_-67.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_0 JOBNAME="3ml_sen_-67.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 0 1"
+JOB 3ml_sen_-67.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_1 JOBNAME="3ml_sen_-67.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 1 1"
+JOB 3ml_sen_-67.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_2 JOBNAME="3ml_sen_-67.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 2 1"
+JOB 3ml_sen_-67.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_3 JOBNAME="3ml_sen_-67.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 3 1"
+JOB 3ml_sen_-67.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_4 JOBNAME="3ml_sen_-67.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 4 1"
+JOB 3ml_sen_-67.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_5 JOBNAME="3ml_sen_-67.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 5 1"
+JOB 3ml_sen_-67.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_6 JOBNAME="3ml_sen_-67.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 6 1"
+JOB 3ml_sen_-67.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_7 JOBNAME="3ml_sen_-67.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 7 1"
+JOB 3ml_sen_-67.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_8 JOBNAME="3ml_sen_-67.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 8 1"
+JOB 3ml_sen_-67.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-67.5_9 JOBNAME="3ml_sen_-67.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -67.5 9 1"
+JOB 3ml_sen_-65.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_0 JOBNAME="3ml_sen_-65.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 0 1"
+JOB 3ml_sen_-65.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_1 JOBNAME="3ml_sen_-65.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 1 1"
+JOB 3ml_sen_-65.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_2 JOBNAME="3ml_sen_-65.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 2 1"
+JOB 3ml_sen_-65.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_3 JOBNAME="3ml_sen_-65.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 3 1"
+JOB 3ml_sen_-65.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_4 JOBNAME="3ml_sen_-65.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 4 1"
+JOB 3ml_sen_-65.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_5 JOBNAME="3ml_sen_-65.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 5 1"
+JOB 3ml_sen_-65.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_6 JOBNAME="3ml_sen_-65.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 6 1"
+JOB 3ml_sen_-65.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_7 JOBNAME="3ml_sen_-65.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 7 1"
+JOB 3ml_sen_-65.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_8 JOBNAME="3ml_sen_-65.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 8 1"
+JOB 3ml_sen_-65.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-65.0_9 JOBNAME="3ml_sen_-65.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -65.0 9 1"
+JOB 3ml_sen_-62.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_0 JOBNAME="3ml_sen_-62.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 0 1"
+JOB 3ml_sen_-62.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_1 JOBNAME="3ml_sen_-62.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 1 1"
+JOB 3ml_sen_-62.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_2 JOBNAME="3ml_sen_-62.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 2 1"
+JOB 3ml_sen_-62.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_3 JOBNAME="3ml_sen_-62.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 3 1"
+JOB 3ml_sen_-62.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_4 JOBNAME="3ml_sen_-62.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 4 1"
+JOB 3ml_sen_-62.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_5 JOBNAME="3ml_sen_-62.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 5 1"
+JOB 3ml_sen_-62.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_6 JOBNAME="3ml_sen_-62.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 6 1"
+JOB 3ml_sen_-62.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_7 JOBNAME="3ml_sen_-62.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 7 1"
+JOB 3ml_sen_-62.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_8 JOBNAME="3ml_sen_-62.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 8 1"
+JOB 3ml_sen_-62.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-62.5_9 JOBNAME="3ml_sen_-62.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -62.5 9 1"
+JOB 3ml_sen_-60.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_0 JOBNAME="3ml_sen_-60.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 0 1"
+JOB 3ml_sen_-60.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_1 JOBNAME="3ml_sen_-60.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 1 1"
+JOB 3ml_sen_-60.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_2 JOBNAME="3ml_sen_-60.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 2 1"
+JOB 3ml_sen_-60.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_3 JOBNAME="3ml_sen_-60.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 3 1"
+JOB 3ml_sen_-60.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_4 JOBNAME="3ml_sen_-60.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 4 1"
+JOB 3ml_sen_-60.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_5 JOBNAME="3ml_sen_-60.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 5 1"
+JOB 3ml_sen_-60.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_6 JOBNAME="3ml_sen_-60.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 6 1"
+JOB 3ml_sen_-60.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_7 JOBNAME="3ml_sen_-60.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 7 1"
+JOB 3ml_sen_-60.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_8 JOBNAME="3ml_sen_-60.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 8 1"
+JOB 3ml_sen_-60.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-60.0_9 JOBNAME="3ml_sen_-60.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -60.0 9 1"
+JOB 3ml_sen_-57.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_0 JOBNAME="3ml_sen_-57.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 0 1"
+JOB 3ml_sen_-57.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_1 JOBNAME="3ml_sen_-57.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 1 1"
+JOB 3ml_sen_-57.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_2 JOBNAME="3ml_sen_-57.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 2 1"
+JOB 3ml_sen_-57.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_3 JOBNAME="3ml_sen_-57.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 3 1"
+JOB 3ml_sen_-57.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_4 JOBNAME="3ml_sen_-57.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 4 1"
+JOB 3ml_sen_-57.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_5 JOBNAME="3ml_sen_-57.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 5 1"
+JOB 3ml_sen_-57.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_6 JOBNAME="3ml_sen_-57.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 6 1"
+JOB 3ml_sen_-57.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_7 JOBNAME="3ml_sen_-57.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 7 1"
+JOB 3ml_sen_-57.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_8 JOBNAME="3ml_sen_-57.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 8 1"
+JOB 3ml_sen_-57.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-57.5_9 JOBNAME="3ml_sen_-57.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -57.5 9 1"
+JOB 3ml_sen_-55.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_0 JOBNAME="3ml_sen_-55.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 0 1"
+JOB 3ml_sen_-55.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_1 JOBNAME="3ml_sen_-55.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 1 1"
+JOB 3ml_sen_-55.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_2 JOBNAME="3ml_sen_-55.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 2 1"
+JOB 3ml_sen_-55.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_3 JOBNAME="3ml_sen_-55.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 3 1"
+JOB 3ml_sen_-55.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_4 JOBNAME="3ml_sen_-55.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 4 1"
+JOB 3ml_sen_-55.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_5 JOBNAME="3ml_sen_-55.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 5 1"
+JOB 3ml_sen_-55.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_6 JOBNAME="3ml_sen_-55.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 6 1"
+JOB 3ml_sen_-55.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_7 JOBNAME="3ml_sen_-55.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 7 1"
+JOB 3ml_sen_-55.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_8 JOBNAME="3ml_sen_-55.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 8 1"
+JOB 3ml_sen_-55.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-55.0_9 JOBNAME="3ml_sen_-55.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -55.0 9 1"
+JOB 3ml_sen_-52.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_0 JOBNAME="3ml_sen_-52.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 0 1"
+JOB 3ml_sen_-52.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_1 JOBNAME="3ml_sen_-52.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 1 1"
+JOB 3ml_sen_-52.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_2 JOBNAME="3ml_sen_-52.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 2 1"
+JOB 3ml_sen_-52.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_3 JOBNAME="3ml_sen_-52.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 3 1"
+JOB 3ml_sen_-52.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_4 JOBNAME="3ml_sen_-52.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 4 1"
+JOB 3ml_sen_-52.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_5 JOBNAME="3ml_sen_-52.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 5 1"
+JOB 3ml_sen_-52.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_6 JOBNAME="3ml_sen_-52.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 6 1"
+JOB 3ml_sen_-52.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_7 JOBNAME="3ml_sen_-52.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 7 1"
+JOB 3ml_sen_-52.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_8 JOBNAME="3ml_sen_-52.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 8 1"
+JOB 3ml_sen_-52.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-52.5_9 JOBNAME="3ml_sen_-52.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -52.5 9 1"
+JOB 3ml_sen_-50.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_0 JOBNAME="3ml_sen_-50.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 0 1"
+JOB 3ml_sen_-50.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_1 JOBNAME="3ml_sen_-50.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 1 1"
+JOB 3ml_sen_-50.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_2 JOBNAME="3ml_sen_-50.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 2 1"
+JOB 3ml_sen_-50.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_3 JOBNAME="3ml_sen_-50.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 3 1"
+JOB 3ml_sen_-50.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_4 JOBNAME="3ml_sen_-50.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 4 1"
+JOB 3ml_sen_-50.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_5 JOBNAME="3ml_sen_-50.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 5 1"
+JOB 3ml_sen_-50.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_6 JOBNAME="3ml_sen_-50.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 6 1"
+JOB 3ml_sen_-50.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_7 JOBNAME="3ml_sen_-50.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 7 1"
+JOB 3ml_sen_-50.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_8 JOBNAME="3ml_sen_-50.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 8 1"
+JOB 3ml_sen_-50.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-50.0_9 JOBNAME="3ml_sen_-50.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -50.0 9 1"
+JOB 3ml_sen_-47.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_0 JOBNAME="3ml_sen_-47.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 0 1"
+JOB 3ml_sen_-47.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_1 JOBNAME="3ml_sen_-47.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 1 1"
+JOB 3ml_sen_-47.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_2 JOBNAME="3ml_sen_-47.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 2 1"
+JOB 3ml_sen_-47.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_3 JOBNAME="3ml_sen_-47.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 3 1"
+JOB 3ml_sen_-47.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_4 JOBNAME="3ml_sen_-47.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 4 1"
+JOB 3ml_sen_-47.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_5 JOBNAME="3ml_sen_-47.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 5 1"
+JOB 3ml_sen_-47.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_6 JOBNAME="3ml_sen_-47.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 6 1"
+JOB 3ml_sen_-47.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_7 JOBNAME="3ml_sen_-47.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 7 1"
+JOB 3ml_sen_-47.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_8 JOBNAME="3ml_sen_-47.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 8 1"
+JOB 3ml_sen_-47.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-47.5_9 JOBNAME="3ml_sen_-47.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -47.5 9 1"
+JOB 3ml_sen_-45.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_0 JOBNAME="3ml_sen_-45.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 0 1"
+JOB 3ml_sen_-45.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_1 JOBNAME="3ml_sen_-45.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 1 1"
+JOB 3ml_sen_-45.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_2 JOBNAME="3ml_sen_-45.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 2 1"
+JOB 3ml_sen_-45.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_3 JOBNAME="3ml_sen_-45.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 3 1"
+JOB 3ml_sen_-45.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_4 JOBNAME="3ml_sen_-45.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 4 1"
+JOB 3ml_sen_-45.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_5 JOBNAME="3ml_sen_-45.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 5 1"
+JOB 3ml_sen_-45.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_6 JOBNAME="3ml_sen_-45.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 6 1"
+JOB 3ml_sen_-45.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_7 JOBNAME="3ml_sen_-45.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 7 1"
+JOB 3ml_sen_-45.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_8 JOBNAME="3ml_sen_-45.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 8 1"
+JOB 3ml_sen_-45.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-45.0_9 JOBNAME="3ml_sen_-45.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -45.0 9 1"
+JOB 3ml_sen_-42.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_0 JOBNAME="3ml_sen_-42.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 0 1"
+JOB 3ml_sen_-42.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_1 JOBNAME="3ml_sen_-42.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 1 1"
+JOB 3ml_sen_-42.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_2 JOBNAME="3ml_sen_-42.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 2 1"
+JOB 3ml_sen_-42.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_3 JOBNAME="3ml_sen_-42.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 3 1"
+JOB 3ml_sen_-42.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_4 JOBNAME="3ml_sen_-42.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 4 1"
+JOB 3ml_sen_-42.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_5 JOBNAME="3ml_sen_-42.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 5 1"
+JOB 3ml_sen_-42.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_6 JOBNAME="3ml_sen_-42.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 6 1"
+JOB 3ml_sen_-42.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_7 JOBNAME="3ml_sen_-42.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 7 1"
+JOB 3ml_sen_-42.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_8 JOBNAME="3ml_sen_-42.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 8 1"
+JOB 3ml_sen_-42.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-42.5_9 JOBNAME="3ml_sen_-42.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -42.5 9 1"
+JOB 3ml_sen_-40.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_0 JOBNAME="3ml_sen_-40.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 0 1"
+JOB 3ml_sen_-40.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_1 JOBNAME="3ml_sen_-40.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 1 1"
+JOB 3ml_sen_-40.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_2 JOBNAME="3ml_sen_-40.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 2 1"
+JOB 3ml_sen_-40.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_3 JOBNAME="3ml_sen_-40.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 3 1"
+JOB 3ml_sen_-40.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_4 JOBNAME="3ml_sen_-40.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 4 1"
+JOB 3ml_sen_-40.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_5 JOBNAME="3ml_sen_-40.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 5 1"
+JOB 3ml_sen_-40.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_6 JOBNAME="3ml_sen_-40.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 6 1"
+JOB 3ml_sen_-40.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_7 JOBNAME="3ml_sen_-40.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 7 1"
+JOB 3ml_sen_-40.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_8 JOBNAME="3ml_sen_-40.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 8 1"
+JOB 3ml_sen_-40.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-40.0_9 JOBNAME="3ml_sen_-40.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -40.0 9 1"
+JOB 3ml_sen_-37.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_0 JOBNAME="3ml_sen_-37.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 0 1"
+JOB 3ml_sen_-37.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_1 JOBNAME="3ml_sen_-37.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 1 1"
+JOB 3ml_sen_-37.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_2 JOBNAME="3ml_sen_-37.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 2 1"
+JOB 3ml_sen_-37.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_3 JOBNAME="3ml_sen_-37.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 3 1"
+JOB 3ml_sen_-37.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_4 JOBNAME="3ml_sen_-37.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 4 1"
+JOB 3ml_sen_-37.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_5 JOBNAME="3ml_sen_-37.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 5 1"
+JOB 3ml_sen_-37.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_6 JOBNAME="3ml_sen_-37.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 6 1"
+JOB 3ml_sen_-37.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_7 JOBNAME="3ml_sen_-37.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 7 1"
+JOB 3ml_sen_-37.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_8 JOBNAME="3ml_sen_-37.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 8 1"
+JOB 3ml_sen_-37.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-37.5_9 JOBNAME="3ml_sen_-37.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -37.5 9 1"
+JOB 3ml_sen_-35.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_0 JOBNAME="3ml_sen_-35.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 0 1"
+JOB 3ml_sen_-35.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_1 JOBNAME="3ml_sen_-35.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 1 1"
+JOB 3ml_sen_-35.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_2 JOBNAME="3ml_sen_-35.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 2 1"
+JOB 3ml_sen_-35.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_3 JOBNAME="3ml_sen_-35.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 3 1"
+JOB 3ml_sen_-35.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_4 JOBNAME="3ml_sen_-35.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 4 1"
+JOB 3ml_sen_-35.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_5 JOBNAME="3ml_sen_-35.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 5 1"
+JOB 3ml_sen_-35.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_6 JOBNAME="3ml_sen_-35.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 6 1"
+JOB 3ml_sen_-35.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_7 JOBNAME="3ml_sen_-35.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 7 1"
+JOB 3ml_sen_-35.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_8 JOBNAME="3ml_sen_-35.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 8 1"
+JOB 3ml_sen_-35.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-35.0_9 JOBNAME="3ml_sen_-35.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -35.0 9 1"
+JOB 3ml_sen_-32.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_0 JOBNAME="3ml_sen_-32.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 0 1"
+JOB 3ml_sen_-32.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_1 JOBNAME="3ml_sen_-32.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 1 1"
+JOB 3ml_sen_-32.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_2 JOBNAME="3ml_sen_-32.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 2 1"
+JOB 3ml_sen_-32.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_3 JOBNAME="3ml_sen_-32.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 3 1"
+JOB 3ml_sen_-32.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_4 JOBNAME="3ml_sen_-32.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 4 1"
+JOB 3ml_sen_-32.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_5 JOBNAME="3ml_sen_-32.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 5 1"
+JOB 3ml_sen_-32.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_6 JOBNAME="3ml_sen_-32.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 6 1"
+JOB 3ml_sen_-32.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_7 JOBNAME="3ml_sen_-32.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 7 1"
+JOB 3ml_sen_-32.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_8 JOBNAME="3ml_sen_-32.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 8 1"
+JOB 3ml_sen_-32.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-32.5_9 JOBNAME="3ml_sen_-32.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -32.5 9 1"
+JOB 3ml_sen_-30.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_0 JOBNAME="3ml_sen_-30.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 0 1"
+JOB 3ml_sen_-30.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_1 JOBNAME="3ml_sen_-30.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 1 1"
+JOB 3ml_sen_-30.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_2 JOBNAME="3ml_sen_-30.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 2 1"
+JOB 3ml_sen_-30.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_3 JOBNAME="3ml_sen_-30.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 3 1"
+JOB 3ml_sen_-30.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_4 JOBNAME="3ml_sen_-30.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 4 1"
+JOB 3ml_sen_-30.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_5 JOBNAME="3ml_sen_-30.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 5 1"
+JOB 3ml_sen_-30.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_6 JOBNAME="3ml_sen_-30.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 6 1"
+JOB 3ml_sen_-30.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_7 JOBNAME="3ml_sen_-30.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 7 1"
+JOB 3ml_sen_-30.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_8 JOBNAME="3ml_sen_-30.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 8 1"
+JOB 3ml_sen_-30.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-30.0_9 JOBNAME="3ml_sen_-30.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -30.0 9 1"
+JOB 3ml_sen_-27.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_0 JOBNAME="3ml_sen_-27.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 0 1"
+JOB 3ml_sen_-27.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_1 JOBNAME="3ml_sen_-27.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 1 1"
+JOB 3ml_sen_-27.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_2 JOBNAME="3ml_sen_-27.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 2 1"
+JOB 3ml_sen_-27.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_3 JOBNAME="3ml_sen_-27.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 3 1"
+JOB 3ml_sen_-27.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_4 JOBNAME="3ml_sen_-27.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 4 1"
+JOB 3ml_sen_-27.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_5 JOBNAME="3ml_sen_-27.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 5 1"
+JOB 3ml_sen_-27.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_6 JOBNAME="3ml_sen_-27.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 6 1"
+JOB 3ml_sen_-27.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_7 JOBNAME="3ml_sen_-27.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 7 1"
+JOB 3ml_sen_-27.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_8 JOBNAME="3ml_sen_-27.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 8 1"
+JOB 3ml_sen_-27.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-27.5_9 JOBNAME="3ml_sen_-27.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -27.5 9 1"
+JOB 3ml_sen_-25.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_0 JOBNAME="3ml_sen_-25.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 0 1"
+JOB 3ml_sen_-25.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_1 JOBNAME="3ml_sen_-25.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 1 1"
+JOB 3ml_sen_-25.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_2 JOBNAME="3ml_sen_-25.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 2 1"
+JOB 3ml_sen_-25.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_3 JOBNAME="3ml_sen_-25.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 3 1"
+JOB 3ml_sen_-25.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_4 JOBNAME="3ml_sen_-25.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 4 1"
+JOB 3ml_sen_-25.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_5 JOBNAME="3ml_sen_-25.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 5 1"
+JOB 3ml_sen_-25.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_6 JOBNAME="3ml_sen_-25.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 6 1"
+JOB 3ml_sen_-25.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_7 JOBNAME="3ml_sen_-25.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 7 1"
+JOB 3ml_sen_-25.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_8 JOBNAME="3ml_sen_-25.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 8 1"
+JOB 3ml_sen_-25.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-25.0_9 JOBNAME="3ml_sen_-25.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -25.0 9 1"
+JOB 3ml_sen_-22.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_0 JOBNAME="3ml_sen_-22.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 0 1"
+JOB 3ml_sen_-22.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_1 JOBNAME="3ml_sen_-22.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 1 1"
+JOB 3ml_sen_-22.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_2 JOBNAME="3ml_sen_-22.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 2 1"
+JOB 3ml_sen_-22.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_3 JOBNAME="3ml_sen_-22.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 3 1"
+JOB 3ml_sen_-22.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_4 JOBNAME="3ml_sen_-22.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 4 1"
+JOB 3ml_sen_-22.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_5 JOBNAME="3ml_sen_-22.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 5 1"
+JOB 3ml_sen_-22.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_6 JOBNAME="3ml_sen_-22.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 6 1"
+JOB 3ml_sen_-22.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_7 JOBNAME="3ml_sen_-22.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 7 1"
+JOB 3ml_sen_-22.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_8 JOBNAME="3ml_sen_-22.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 8 1"
+JOB 3ml_sen_-22.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-22.5_9 JOBNAME="3ml_sen_-22.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -22.5 9 1"
+JOB 3ml_sen_-20.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_0 JOBNAME="3ml_sen_-20.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 0 1"
+JOB 3ml_sen_-20.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_1 JOBNAME="3ml_sen_-20.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 1 1"
+JOB 3ml_sen_-20.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_2 JOBNAME="3ml_sen_-20.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 2 1"
+JOB 3ml_sen_-20.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_3 JOBNAME="3ml_sen_-20.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 3 1"
+JOB 3ml_sen_-20.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_4 JOBNAME="3ml_sen_-20.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 4 1"
+JOB 3ml_sen_-20.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_5 JOBNAME="3ml_sen_-20.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 5 1"
+JOB 3ml_sen_-20.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_6 JOBNAME="3ml_sen_-20.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 6 1"
+JOB 3ml_sen_-20.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_7 JOBNAME="3ml_sen_-20.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 7 1"
+JOB 3ml_sen_-20.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_8 JOBNAME="3ml_sen_-20.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 8 1"
+JOB 3ml_sen_-20.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-20.0_9 JOBNAME="3ml_sen_-20.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -20.0 9 1"
+JOB 3ml_sen_-17.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_0 JOBNAME="3ml_sen_-17.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 0 1"
+JOB 3ml_sen_-17.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_1 JOBNAME="3ml_sen_-17.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 1 1"
+JOB 3ml_sen_-17.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_2 JOBNAME="3ml_sen_-17.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 2 1"
+JOB 3ml_sen_-17.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_3 JOBNAME="3ml_sen_-17.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 3 1"
+JOB 3ml_sen_-17.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_4 JOBNAME="3ml_sen_-17.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 4 1"
+JOB 3ml_sen_-17.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_5 JOBNAME="3ml_sen_-17.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 5 1"
+JOB 3ml_sen_-17.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_6 JOBNAME="3ml_sen_-17.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 6 1"
+JOB 3ml_sen_-17.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_7 JOBNAME="3ml_sen_-17.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 7 1"
+JOB 3ml_sen_-17.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_8 JOBNAME="3ml_sen_-17.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 8 1"
+JOB 3ml_sen_-17.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-17.5_9 JOBNAME="3ml_sen_-17.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -17.5 9 1"
+JOB 3ml_sen_-15.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_0 JOBNAME="3ml_sen_-15.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 0 1"
+JOB 3ml_sen_-15.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_1 JOBNAME="3ml_sen_-15.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 1 1"
+JOB 3ml_sen_-15.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_2 JOBNAME="3ml_sen_-15.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 2 1"
+JOB 3ml_sen_-15.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_3 JOBNAME="3ml_sen_-15.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 3 1"
+JOB 3ml_sen_-15.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_4 JOBNAME="3ml_sen_-15.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 4 1"
+JOB 3ml_sen_-15.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_5 JOBNAME="3ml_sen_-15.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 5 1"
+JOB 3ml_sen_-15.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_6 JOBNAME="3ml_sen_-15.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 6 1"
+JOB 3ml_sen_-15.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_7 JOBNAME="3ml_sen_-15.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 7 1"
+JOB 3ml_sen_-15.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_8 JOBNAME="3ml_sen_-15.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 8 1"
+JOB 3ml_sen_-15.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-15.0_9 JOBNAME="3ml_sen_-15.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -15.0 9 1"
+JOB 3ml_sen_-12.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_0 JOBNAME="3ml_sen_-12.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 0 1"
+JOB 3ml_sen_-12.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_1 JOBNAME="3ml_sen_-12.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 1 1"
+JOB 3ml_sen_-12.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_2 JOBNAME="3ml_sen_-12.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 2 1"
+JOB 3ml_sen_-12.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_3 JOBNAME="3ml_sen_-12.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 3 1"
+JOB 3ml_sen_-12.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_4 JOBNAME="3ml_sen_-12.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 4 1"
+JOB 3ml_sen_-12.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_5 JOBNAME="3ml_sen_-12.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 5 1"
+JOB 3ml_sen_-12.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_6 JOBNAME="3ml_sen_-12.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 6 1"
+JOB 3ml_sen_-12.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_7 JOBNAME="3ml_sen_-12.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 7 1"
+JOB 3ml_sen_-12.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_8 JOBNAME="3ml_sen_-12.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 8 1"
+JOB 3ml_sen_-12.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-12.5_9 JOBNAME="3ml_sen_-12.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -12.5 9 1"
+JOB 3ml_sen_-10.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_0 JOBNAME="3ml_sen_-10.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 0 1"
+JOB 3ml_sen_-10.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_1 JOBNAME="3ml_sen_-10.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 1 1"
+JOB 3ml_sen_-10.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_2 JOBNAME="3ml_sen_-10.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 2 1"
+JOB 3ml_sen_-10.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_3 JOBNAME="3ml_sen_-10.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 3 1"
+JOB 3ml_sen_-10.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_4 JOBNAME="3ml_sen_-10.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 4 1"
+JOB 3ml_sen_-10.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_5 JOBNAME="3ml_sen_-10.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 5 1"
+JOB 3ml_sen_-10.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_6 JOBNAME="3ml_sen_-10.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 6 1"
+JOB 3ml_sen_-10.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_7 JOBNAME="3ml_sen_-10.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 7 1"
+JOB 3ml_sen_-10.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_8 JOBNAME="3ml_sen_-10.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 8 1"
+JOB 3ml_sen_-10.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-10.0_9 JOBNAME="3ml_sen_-10.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -10.0 9 1"
+JOB 3ml_sen_-7.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_0 JOBNAME="3ml_sen_-7.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 0 1"
+JOB 3ml_sen_-7.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_1 JOBNAME="3ml_sen_-7.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 1 1"
+JOB 3ml_sen_-7.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_2 JOBNAME="3ml_sen_-7.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 2 1"
+JOB 3ml_sen_-7.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_3 JOBNAME="3ml_sen_-7.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 3 1"
+JOB 3ml_sen_-7.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_4 JOBNAME="3ml_sen_-7.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 4 1"
+JOB 3ml_sen_-7.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_5 JOBNAME="3ml_sen_-7.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 5 1"
+JOB 3ml_sen_-7.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_6 JOBNAME="3ml_sen_-7.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 6 1"
+JOB 3ml_sen_-7.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_7 JOBNAME="3ml_sen_-7.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 7 1"
+JOB 3ml_sen_-7.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_8 JOBNAME="3ml_sen_-7.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 8 1"
+JOB 3ml_sen_-7.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-7.5_9 JOBNAME="3ml_sen_-7.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -7.5 9 1"
+JOB 3ml_sen_-5.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_0 JOBNAME="3ml_sen_-5.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 0 1"
+JOB 3ml_sen_-5.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_1 JOBNAME="3ml_sen_-5.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 1 1"
+JOB 3ml_sen_-5.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_2 JOBNAME="3ml_sen_-5.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 2 1"
+JOB 3ml_sen_-5.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_3 JOBNAME="3ml_sen_-5.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 3 1"
+JOB 3ml_sen_-5.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_4 JOBNAME="3ml_sen_-5.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 4 1"
+JOB 3ml_sen_-5.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_5 JOBNAME="3ml_sen_-5.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 5 1"
+JOB 3ml_sen_-5.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_6 JOBNAME="3ml_sen_-5.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 6 1"
+JOB 3ml_sen_-5.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_7 JOBNAME="3ml_sen_-5.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 7 1"
+JOB 3ml_sen_-5.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_8 JOBNAME="3ml_sen_-5.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 8 1"
+JOB 3ml_sen_-5.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-5.0_9 JOBNAME="3ml_sen_-5.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -5.0 9 1"
+JOB 3ml_sen_-2.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_0 JOBNAME="3ml_sen_-2.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 0 1"
+JOB 3ml_sen_-2.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_1 JOBNAME="3ml_sen_-2.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 1 1"
+JOB 3ml_sen_-2.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_2 JOBNAME="3ml_sen_-2.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 2 1"
+JOB 3ml_sen_-2.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_3 JOBNAME="3ml_sen_-2.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 3 1"
+JOB 3ml_sen_-2.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_4 JOBNAME="3ml_sen_-2.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 4 1"
+JOB 3ml_sen_-2.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_5 JOBNAME="3ml_sen_-2.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 5 1"
+JOB 3ml_sen_-2.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_6 JOBNAME="3ml_sen_-2.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 6 1"
+JOB 3ml_sen_-2.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_7 JOBNAME="3ml_sen_-2.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 7 1"
+JOB 3ml_sen_-2.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_8 JOBNAME="3ml_sen_-2.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 8 1"
+JOB 3ml_sen_-2.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_-2.5_9 JOBNAME="3ml_sen_-2.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh -2.5 9 1"
+JOB 3ml_sen_0.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_0 JOBNAME="3ml_sen_0.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 0 1"
+JOB 3ml_sen_0.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_1 JOBNAME="3ml_sen_0.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 1 1"
+JOB 3ml_sen_0.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_2 JOBNAME="3ml_sen_0.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 2 1"
+JOB 3ml_sen_0.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_3 JOBNAME="3ml_sen_0.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 3 1"
+JOB 3ml_sen_0.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_4 JOBNAME="3ml_sen_0.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 4 1"
+JOB 3ml_sen_0.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_5 JOBNAME="3ml_sen_0.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 5 1"
+JOB 3ml_sen_0.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_6 JOBNAME="3ml_sen_0.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 6 1"
+JOB 3ml_sen_0.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_7 JOBNAME="3ml_sen_0.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 7 1"
+JOB 3ml_sen_0.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_8 JOBNAME="3ml_sen_0.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 8 1"
+JOB 3ml_sen_0.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_0.0_9 JOBNAME="3ml_sen_0.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 0.0 9 1"
+JOB 3ml_sen_2.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_0 JOBNAME="3ml_sen_2.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 0 1"
+JOB 3ml_sen_2.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_1 JOBNAME="3ml_sen_2.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 1 1"
+JOB 3ml_sen_2.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_2 JOBNAME="3ml_sen_2.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 2 1"
+JOB 3ml_sen_2.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_3 JOBNAME="3ml_sen_2.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 3 1"
+JOB 3ml_sen_2.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_4 JOBNAME="3ml_sen_2.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 4 1"
+JOB 3ml_sen_2.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_5 JOBNAME="3ml_sen_2.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 5 1"
+JOB 3ml_sen_2.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_6 JOBNAME="3ml_sen_2.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 6 1"
+JOB 3ml_sen_2.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_7 JOBNAME="3ml_sen_2.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 7 1"
+JOB 3ml_sen_2.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_8 JOBNAME="3ml_sen_2.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 8 1"
+JOB 3ml_sen_2.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_2.5_9 JOBNAME="3ml_sen_2.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 2.5 9 1"
+JOB 3ml_sen_5.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_0 JOBNAME="3ml_sen_5.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 0 1"
+JOB 3ml_sen_5.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_1 JOBNAME="3ml_sen_5.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 1 1"
+JOB 3ml_sen_5.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_2 JOBNAME="3ml_sen_5.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 2 1"
+JOB 3ml_sen_5.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_3 JOBNAME="3ml_sen_5.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 3 1"
+JOB 3ml_sen_5.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_4 JOBNAME="3ml_sen_5.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 4 1"
+JOB 3ml_sen_5.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_5 JOBNAME="3ml_sen_5.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 5 1"
+JOB 3ml_sen_5.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_6 JOBNAME="3ml_sen_5.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 6 1"
+JOB 3ml_sen_5.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_7 JOBNAME="3ml_sen_5.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 7 1"
+JOB 3ml_sen_5.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_8 JOBNAME="3ml_sen_5.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 8 1"
+JOB 3ml_sen_5.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_5.0_9 JOBNAME="3ml_sen_5.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 5.0 9 1"
+JOB 3ml_sen_7.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_0 JOBNAME="3ml_sen_7.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 0 1"
+JOB 3ml_sen_7.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_1 JOBNAME="3ml_sen_7.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 1 1"
+JOB 3ml_sen_7.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_2 JOBNAME="3ml_sen_7.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 2 1"
+JOB 3ml_sen_7.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_3 JOBNAME="3ml_sen_7.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 3 1"
+JOB 3ml_sen_7.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_4 JOBNAME="3ml_sen_7.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 4 1"
+JOB 3ml_sen_7.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_5 JOBNAME="3ml_sen_7.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 5 1"
+JOB 3ml_sen_7.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_6 JOBNAME="3ml_sen_7.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 6 1"
+JOB 3ml_sen_7.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_7 JOBNAME="3ml_sen_7.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 7 1"
+JOB 3ml_sen_7.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_8 JOBNAME="3ml_sen_7.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 8 1"
+JOB 3ml_sen_7.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_7.5_9 JOBNAME="3ml_sen_7.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 7.5 9 1"
+JOB 3ml_sen_10.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_0 JOBNAME="3ml_sen_10.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 0 1"
+JOB 3ml_sen_10.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_1 JOBNAME="3ml_sen_10.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 1 1"
+JOB 3ml_sen_10.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_2 JOBNAME="3ml_sen_10.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 2 1"
+JOB 3ml_sen_10.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_3 JOBNAME="3ml_sen_10.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 3 1"
+JOB 3ml_sen_10.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_4 JOBNAME="3ml_sen_10.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 4 1"
+JOB 3ml_sen_10.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_5 JOBNAME="3ml_sen_10.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 5 1"
+JOB 3ml_sen_10.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_6 JOBNAME="3ml_sen_10.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 6 1"
+JOB 3ml_sen_10.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_7 JOBNAME="3ml_sen_10.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 7 1"
+JOB 3ml_sen_10.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_8 JOBNAME="3ml_sen_10.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 8 1"
+JOB 3ml_sen_10.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_10.0_9 JOBNAME="3ml_sen_10.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 10.0 9 1"
+JOB 3ml_sen_12.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_0 JOBNAME="3ml_sen_12.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 0 1"
+JOB 3ml_sen_12.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_1 JOBNAME="3ml_sen_12.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 1 1"
+JOB 3ml_sen_12.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_2 JOBNAME="3ml_sen_12.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 2 1"
+JOB 3ml_sen_12.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_3 JOBNAME="3ml_sen_12.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 3 1"
+JOB 3ml_sen_12.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_4 JOBNAME="3ml_sen_12.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 4 1"
+JOB 3ml_sen_12.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_5 JOBNAME="3ml_sen_12.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 5 1"
+JOB 3ml_sen_12.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_6 JOBNAME="3ml_sen_12.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 6 1"
+JOB 3ml_sen_12.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_7 JOBNAME="3ml_sen_12.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 7 1"
+JOB 3ml_sen_12.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_8 JOBNAME="3ml_sen_12.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 8 1"
+JOB 3ml_sen_12.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_12.5_9 JOBNAME="3ml_sen_12.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 12.5 9 1"
+JOB 3ml_sen_15.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_0 JOBNAME="3ml_sen_15.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 0 1"
+JOB 3ml_sen_15.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_1 JOBNAME="3ml_sen_15.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 1 1"
+JOB 3ml_sen_15.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_2 JOBNAME="3ml_sen_15.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 2 1"
+JOB 3ml_sen_15.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_3 JOBNAME="3ml_sen_15.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 3 1"
+JOB 3ml_sen_15.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_4 JOBNAME="3ml_sen_15.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 4 1"
+JOB 3ml_sen_15.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_5 JOBNAME="3ml_sen_15.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 5 1"
+JOB 3ml_sen_15.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_6 JOBNAME="3ml_sen_15.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 6 1"
+JOB 3ml_sen_15.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_7 JOBNAME="3ml_sen_15.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 7 1"
+JOB 3ml_sen_15.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_8 JOBNAME="3ml_sen_15.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 8 1"
+JOB 3ml_sen_15.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_15.0_9 JOBNAME="3ml_sen_15.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 15.0 9 1"
+JOB 3ml_sen_17.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_0 JOBNAME="3ml_sen_17.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 0 1"
+JOB 3ml_sen_17.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_1 JOBNAME="3ml_sen_17.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 1 1"
+JOB 3ml_sen_17.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_2 JOBNAME="3ml_sen_17.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 2 1"
+JOB 3ml_sen_17.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_3 JOBNAME="3ml_sen_17.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 3 1"
+JOB 3ml_sen_17.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_4 JOBNAME="3ml_sen_17.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 4 1"
+JOB 3ml_sen_17.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_5 JOBNAME="3ml_sen_17.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 5 1"
+JOB 3ml_sen_17.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_6 JOBNAME="3ml_sen_17.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 6 1"
+JOB 3ml_sen_17.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_7 JOBNAME="3ml_sen_17.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 7 1"
+JOB 3ml_sen_17.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_8 JOBNAME="3ml_sen_17.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 8 1"
+JOB 3ml_sen_17.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_17.5_9 JOBNAME="3ml_sen_17.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 17.5 9 1"
+JOB 3ml_sen_20.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_0 JOBNAME="3ml_sen_20.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 0 1"
+JOB 3ml_sen_20.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_1 JOBNAME="3ml_sen_20.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 1 1"
+JOB 3ml_sen_20.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_2 JOBNAME="3ml_sen_20.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 2 1"
+JOB 3ml_sen_20.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_3 JOBNAME="3ml_sen_20.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 3 1"
+JOB 3ml_sen_20.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_4 JOBNAME="3ml_sen_20.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 4 1"
+JOB 3ml_sen_20.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_5 JOBNAME="3ml_sen_20.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 5 1"
+JOB 3ml_sen_20.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_6 JOBNAME="3ml_sen_20.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 6 1"
+JOB 3ml_sen_20.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_7 JOBNAME="3ml_sen_20.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 7 1"
+JOB 3ml_sen_20.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_8 JOBNAME="3ml_sen_20.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 8 1"
+JOB 3ml_sen_20.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_20.0_9 JOBNAME="3ml_sen_20.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 20.0 9 1"
+JOB 3ml_sen_22.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_0 JOBNAME="3ml_sen_22.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 0 1"
+JOB 3ml_sen_22.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_1 JOBNAME="3ml_sen_22.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 1 1"
+JOB 3ml_sen_22.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_2 JOBNAME="3ml_sen_22.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 2 1"
+JOB 3ml_sen_22.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_3 JOBNAME="3ml_sen_22.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 3 1"
+JOB 3ml_sen_22.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_4 JOBNAME="3ml_sen_22.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 4 1"
+JOB 3ml_sen_22.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_5 JOBNAME="3ml_sen_22.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 5 1"
+JOB 3ml_sen_22.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_6 JOBNAME="3ml_sen_22.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 6 1"
+JOB 3ml_sen_22.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_7 JOBNAME="3ml_sen_22.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 7 1"
+JOB 3ml_sen_22.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_8 JOBNAME="3ml_sen_22.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 8 1"
+JOB 3ml_sen_22.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_22.5_9 JOBNAME="3ml_sen_22.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 22.5 9 1"
+JOB 3ml_sen_25.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_0 JOBNAME="3ml_sen_25.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 0 1"
+JOB 3ml_sen_25.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_1 JOBNAME="3ml_sen_25.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 1 1"
+JOB 3ml_sen_25.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_2 JOBNAME="3ml_sen_25.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 2 1"
+JOB 3ml_sen_25.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_3 JOBNAME="3ml_sen_25.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 3 1"
+JOB 3ml_sen_25.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_4 JOBNAME="3ml_sen_25.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 4 1"
+JOB 3ml_sen_25.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_5 JOBNAME="3ml_sen_25.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 5 1"
+JOB 3ml_sen_25.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_6 JOBNAME="3ml_sen_25.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 6 1"
+JOB 3ml_sen_25.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_7 JOBNAME="3ml_sen_25.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 7 1"
+JOB 3ml_sen_25.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_8 JOBNAME="3ml_sen_25.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 8 1"
+JOB 3ml_sen_25.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_25.0_9 JOBNAME="3ml_sen_25.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 25.0 9 1"
+JOB 3ml_sen_27.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_0 JOBNAME="3ml_sen_27.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 0 1"
+JOB 3ml_sen_27.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_1 JOBNAME="3ml_sen_27.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 1 1"
+JOB 3ml_sen_27.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_2 JOBNAME="3ml_sen_27.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 2 1"
+JOB 3ml_sen_27.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_3 JOBNAME="3ml_sen_27.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 3 1"
+JOB 3ml_sen_27.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_4 JOBNAME="3ml_sen_27.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 4 1"
+JOB 3ml_sen_27.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_5 JOBNAME="3ml_sen_27.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 5 1"
+JOB 3ml_sen_27.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_6 JOBNAME="3ml_sen_27.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 6 1"
+JOB 3ml_sen_27.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_7 JOBNAME="3ml_sen_27.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 7 1"
+JOB 3ml_sen_27.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_8 JOBNAME="3ml_sen_27.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 8 1"
+JOB 3ml_sen_27.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_27.5_9 JOBNAME="3ml_sen_27.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 27.5 9 1"
+JOB 3ml_sen_30.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_0 JOBNAME="3ml_sen_30.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 0 1"
+JOB 3ml_sen_30.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_1 JOBNAME="3ml_sen_30.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 1 1"
+JOB 3ml_sen_30.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_2 JOBNAME="3ml_sen_30.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 2 1"
+JOB 3ml_sen_30.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_3 JOBNAME="3ml_sen_30.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 3 1"
+JOB 3ml_sen_30.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_4 JOBNAME="3ml_sen_30.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 4 1"
+JOB 3ml_sen_30.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_5 JOBNAME="3ml_sen_30.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 5 1"
+JOB 3ml_sen_30.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_6 JOBNAME="3ml_sen_30.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 6 1"
+JOB 3ml_sen_30.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_7 JOBNAME="3ml_sen_30.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 7 1"
+JOB 3ml_sen_30.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_8 JOBNAME="3ml_sen_30.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 8 1"
+JOB 3ml_sen_30.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_30.0_9 JOBNAME="3ml_sen_30.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 30.0 9 1"
+JOB 3ml_sen_32.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_0 JOBNAME="3ml_sen_32.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 0 1"
+JOB 3ml_sen_32.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_1 JOBNAME="3ml_sen_32.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 1 1"
+JOB 3ml_sen_32.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_2 JOBNAME="3ml_sen_32.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 2 1"
+JOB 3ml_sen_32.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_3 JOBNAME="3ml_sen_32.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 3 1"
+JOB 3ml_sen_32.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_4 JOBNAME="3ml_sen_32.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 4 1"
+JOB 3ml_sen_32.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_5 JOBNAME="3ml_sen_32.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 5 1"
+JOB 3ml_sen_32.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_6 JOBNAME="3ml_sen_32.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 6 1"
+JOB 3ml_sen_32.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_7 JOBNAME="3ml_sen_32.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 7 1"
+JOB 3ml_sen_32.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_8 JOBNAME="3ml_sen_32.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 8 1"
+JOB 3ml_sen_32.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_32.5_9 JOBNAME="3ml_sen_32.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 32.5 9 1"
+JOB 3ml_sen_35.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_0 JOBNAME="3ml_sen_35.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 0 1"
+JOB 3ml_sen_35.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_1 JOBNAME="3ml_sen_35.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 1 1"
+JOB 3ml_sen_35.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_2 JOBNAME="3ml_sen_35.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 2 1"
+JOB 3ml_sen_35.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_3 JOBNAME="3ml_sen_35.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 3 1"
+JOB 3ml_sen_35.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_4 JOBNAME="3ml_sen_35.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 4 1"
+JOB 3ml_sen_35.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_5 JOBNAME="3ml_sen_35.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 5 1"
+JOB 3ml_sen_35.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_6 JOBNAME="3ml_sen_35.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 6 1"
+JOB 3ml_sen_35.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_7 JOBNAME="3ml_sen_35.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 7 1"
+JOB 3ml_sen_35.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_8 JOBNAME="3ml_sen_35.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 8 1"
+JOB 3ml_sen_35.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_35.0_9 JOBNAME="3ml_sen_35.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 35.0 9 1"
+JOB 3ml_sen_37.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_0 JOBNAME="3ml_sen_37.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 0 1"
+JOB 3ml_sen_37.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_1 JOBNAME="3ml_sen_37.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 1 1"
+JOB 3ml_sen_37.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_2 JOBNAME="3ml_sen_37.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 2 1"
+JOB 3ml_sen_37.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_3 JOBNAME="3ml_sen_37.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 3 1"
+JOB 3ml_sen_37.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_4 JOBNAME="3ml_sen_37.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 4 1"
+JOB 3ml_sen_37.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_5 JOBNAME="3ml_sen_37.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 5 1"
+JOB 3ml_sen_37.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_6 JOBNAME="3ml_sen_37.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 6 1"
+JOB 3ml_sen_37.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_7 JOBNAME="3ml_sen_37.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 7 1"
+JOB 3ml_sen_37.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_8 JOBNAME="3ml_sen_37.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 8 1"
+JOB 3ml_sen_37.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_37.5_9 JOBNAME="3ml_sen_37.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 37.5 9 1"
+JOB 3ml_sen_40.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_0 JOBNAME="3ml_sen_40.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 0 1"
+JOB 3ml_sen_40.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_1 JOBNAME="3ml_sen_40.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 1 1"
+JOB 3ml_sen_40.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_2 JOBNAME="3ml_sen_40.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 2 1"
+JOB 3ml_sen_40.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_3 JOBNAME="3ml_sen_40.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 3 1"
+JOB 3ml_sen_40.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_4 JOBNAME="3ml_sen_40.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 4 1"
+JOB 3ml_sen_40.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_5 JOBNAME="3ml_sen_40.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 5 1"
+JOB 3ml_sen_40.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_6 JOBNAME="3ml_sen_40.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 6 1"
+JOB 3ml_sen_40.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_7 JOBNAME="3ml_sen_40.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 7 1"
+JOB 3ml_sen_40.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_8 JOBNAME="3ml_sen_40.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 8 1"
+JOB 3ml_sen_40.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_40.0_9 JOBNAME="3ml_sen_40.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 40.0 9 1"
+JOB 3ml_sen_42.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_0 JOBNAME="3ml_sen_42.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 0 1"
+JOB 3ml_sen_42.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_1 JOBNAME="3ml_sen_42.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 1 1"
+JOB 3ml_sen_42.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_2 JOBNAME="3ml_sen_42.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 2 1"
+JOB 3ml_sen_42.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_3 JOBNAME="3ml_sen_42.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 3 1"
+JOB 3ml_sen_42.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_4 JOBNAME="3ml_sen_42.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 4 1"
+JOB 3ml_sen_42.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_5 JOBNAME="3ml_sen_42.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 5 1"
+JOB 3ml_sen_42.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_6 JOBNAME="3ml_sen_42.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 6 1"
+JOB 3ml_sen_42.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_7 JOBNAME="3ml_sen_42.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 7 1"
+JOB 3ml_sen_42.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_8 JOBNAME="3ml_sen_42.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 8 1"
+JOB 3ml_sen_42.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_42.5_9 JOBNAME="3ml_sen_42.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 42.5 9 1"
+JOB 3ml_sen_45.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_0 JOBNAME="3ml_sen_45.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 0 1"
+JOB 3ml_sen_45.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_1 JOBNAME="3ml_sen_45.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 1 1"
+JOB 3ml_sen_45.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_2 JOBNAME="3ml_sen_45.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 2 1"
+JOB 3ml_sen_45.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_3 JOBNAME="3ml_sen_45.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 3 1"
+JOB 3ml_sen_45.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_4 JOBNAME="3ml_sen_45.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 4 1"
+JOB 3ml_sen_45.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_5 JOBNAME="3ml_sen_45.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 5 1"
+JOB 3ml_sen_45.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_6 JOBNAME="3ml_sen_45.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 6 1"
+JOB 3ml_sen_45.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_7 JOBNAME="3ml_sen_45.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 7 1"
+JOB 3ml_sen_45.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_8 JOBNAME="3ml_sen_45.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 8 1"
+JOB 3ml_sen_45.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_45.0_9 JOBNAME="3ml_sen_45.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 45.0 9 1"
+JOB 3ml_sen_47.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_0 JOBNAME="3ml_sen_47.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 0 1"
+JOB 3ml_sen_47.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_1 JOBNAME="3ml_sen_47.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 1 1"
+JOB 3ml_sen_47.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_2 JOBNAME="3ml_sen_47.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 2 1"
+JOB 3ml_sen_47.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_3 JOBNAME="3ml_sen_47.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 3 1"
+JOB 3ml_sen_47.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_4 JOBNAME="3ml_sen_47.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 4 1"
+JOB 3ml_sen_47.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_5 JOBNAME="3ml_sen_47.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 5 1"
+JOB 3ml_sen_47.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_6 JOBNAME="3ml_sen_47.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 6 1"
+JOB 3ml_sen_47.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_7 JOBNAME="3ml_sen_47.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 7 1"
+JOB 3ml_sen_47.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_8 JOBNAME="3ml_sen_47.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 8 1"
+JOB 3ml_sen_47.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_47.5_9 JOBNAME="3ml_sen_47.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 47.5 9 1"
+JOB 3ml_sen_50.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_0 JOBNAME="3ml_sen_50.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 0 1"
+JOB 3ml_sen_50.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_1 JOBNAME="3ml_sen_50.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 1 1"
+JOB 3ml_sen_50.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_2 JOBNAME="3ml_sen_50.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 2 1"
+JOB 3ml_sen_50.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_3 JOBNAME="3ml_sen_50.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 3 1"
+JOB 3ml_sen_50.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_4 JOBNAME="3ml_sen_50.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 4 1"
+JOB 3ml_sen_50.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_5 JOBNAME="3ml_sen_50.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 5 1"
+JOB 3ml_sen_50.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_6 JOBNAME="3ml_sen_50.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 6 1"
+JOB 3ml_sen_50.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_7 JOBNAME="3ml_sen_50.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 7 1"
+JOB 3ml_sen_50.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_8 JOBNAME="3ml_sen_50.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 8 1"
+JOB 3ml_sen_50.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_50.0_9 JOBNAME="3ml_sen_50.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 50.0 9 1"
+JOB 3ml_sen_52.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_0 JOBNAME="3ml_sen_52.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 0 1"
+JOB 3ml_sen_52.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_1 JOBNAME="3ml_sen_52.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 1 1"
+JOB 3ml_sen_52.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_2 JOBNAME="3ml_sen_52.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 2 1"
+JOB 3ml_sen_52.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_3 JOBNAME="3ml_sen_52.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 3 1"
+JOB 3ml_sen_52.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_4 JOBNAME="3ml_sen_52.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 4 1"
+JOB 3ml_sen_52.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_5 JOBNAME="3ml_sen_52.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 5 1"
+JOB 3ml_sen_52.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_6 JOBNAME="3ml_sen_52.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 6 1"
+JOB 3ml_sen_52.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_7 JOBNAME="3ml_sen_52.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 7 1"
+JOB 3ml_sen_52.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_8 JOBNAME="3ml_sen_52.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 8 1"
+JOB 3ml_sen_52.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_52.5_9 JOBNAME="3ml_sen_52.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 52.5 9 1"
+JOB 3ml_sen_55.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_0 JOBNAME="3ml_sen_55.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 0 1"
+JOB 3ml_sen_55.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_1 JOBNAME="3ml_sen_55.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 1 1"
+JOB 3ml_sen_55.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_2 JOBNAME="3ml_sen_55.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 2 1"
+JOB 3ml_sen_55.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_3 JOBNAME="3ml_sen_55.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 3 1"
+JOB 3ml_sen_55.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_4 JOBNAME="3ml_sen_55.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 4 1"
+JOB 3ml_sen_55.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_5 JOBNAME="3ml_sen_55.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 5 1"
+JOB 3ml_sen_55.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_6 JOBNAME="3ml_sen_55.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 6 1"
+JOB 3ml_sen_55.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_7 JOBNAME="3ml_sen_55.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 7 1"
+JOB 3ml_sen_55.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_8 JOBNAME="3ml_sen_55.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 8 1"
+JOB 3ml_sen_55.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_55.0_9 JOBNAME="3ml_sen_55.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 55.0 9 1"
+JOB 3ml_sen_57.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_0 JOBNAME="3ml_sen_57.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 0 1"
+JOB 3ml_sen_57.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_1 JOBNAME="3ml_sen_57.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 1 1"
+JOB 3ml_sen_57.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_2 JOBNAME="3ml_sen_57.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 2 1"
+JOB 3ml_sen_57.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_3 JOBNAME="3ml_sen_57.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 3 1"
+JOB 3ml_sen_57.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_4 JOBNAME="3ml_sen_57.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 4 1"
+JOB 3ml_sen_57.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_5 JOBNAME="3ml_sen_57.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 5 1"
+JOB 3ml_sen_57.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_6 JOBNAME="3ml_sen_57.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 6 1"
+JOB 3ml_sen_57.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_7 JOBNAME="3ml_sen_57.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 7 1"
+JOB 3ml_sen_57.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_8 JOBNAME="3ml_sen_57.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 8 1"
+JOB 3ml_sen_57.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_57.5_9 JOBNAME="3ml_sen_57.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 57.5 9 1"
+JOB 3ml_sen_60.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_0 JOBNAME="3ml_sen_60.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 0 1"
+JOB 3ml_sen_60.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_1 JOBNAME="3ml_sen_60.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 1 1"
+JOB 3ml_sen_60.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_2 JOBNAME="3ml_sen_60.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 2 1"
+JOB 3ml_sen_60.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_3 JOBNAME="3ml_sen_60.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 3 1"
+JOB 3ml_sen_60.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_4 JOBNAME="3ml_sen_60.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 4 1"
+JOB 3ml_sen_60.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_5 JOBNAME="3ml_sen_60.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 5 1"
+JOB 3ml_sen_60.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_6 JOBNAME="3ml_sen_60.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 6 1"
+JOB 3ml_sen_60.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_7 JOBNAME="3ml_sen_60.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 7 1"
+JOB 3ml_sen_60.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_8 JOBNAME="3ml_sen_60.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 8 1"
+JOB 3ml_sen_60.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_60.0_9 JOBNAME="3ml_sen_60.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 60.0 9 1"
+JOB 3ml_sen_62.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_0 JOBNAME="3ml_sen_62.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 0 1"
+JOB 3ml_sen_62.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_1 JOBNAME="3ml_sen_62.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 1 1"
+JOB 3ml_sen_62.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_2 JOBNAME="3ml_sen_62.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 2 1"
+JOB 3ml_sen_62.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_3 JOBNAME="3ml_sen_62.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 3 1"
+JOB 3ml_sen_62.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_4 JOBNAME="3ml_sen_62.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 4 1"
+JOB 3ml_sen_62.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_5 JOBNAME="3ml_sen_62.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 5 1"
+JOB 3ml_sen_62.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_6 JOBNAME="3ml_sen_62.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 6 1"
+JOB 3ml_sen_62.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_7 JOBNAME="3ml_sen_62.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 7 1"
+JOB 3ml_sen_62.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_8 JOBNAME="3ml_sen_62.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 8 1"
+JOB 3ml_sen_62.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_62.5_9 JOBNAME="3ml_sen_62.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 62.5 9 1"
+JOB 3ml_sen_65.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_0 JOBNAME="3ml_sen_65.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 0 1"
+JOB 3ml_sen_65.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_1 JOBNAME="3ml_sen_65.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 1 1"
+JOB 3ml_sen_65.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_2 JOBNAME="3ml_sen_65.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 2 1"
+JOB 3ml_sen_65.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_3 JOBNAME="3ml_sen_65.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 3 1"
+JOB 3ml_sen_65.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_4 JOBNAME="3ml_sen_65.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 4 1"
+JOB 3ml_sen_65.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_5 JOBNAME="3ml_sen_65.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 5 1"
+JOB 3ml_sen_65.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_6 JOBNAME="3ml_sen_65.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 6 1"
+JOB 3ml_sen_65.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_7 JOBNAME="3ml_sen_65.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 7 1"
+JOB 3ml_sen_65.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_8 JOBNAME="3ml_sen_65.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 8 1"
+JOB 3ml_sen_65.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_65.0_9 JOBNAME="3ml_sen_65.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 65.0 9 1"
+JOB 3ml_sen_67.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_0 JOBNAME="3ml_sen_67.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 0 1"
+JOB 3ml_sen_67.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_1 JOBNAME="3ml_sen_67.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 1 1"
+JOB 3ml_sen_67.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_2 JOBNAME="3ml_sen_67.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 2 1"
+JOB 3ml_sen_67.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_3 JOBNAME="3ml_sen_67.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 3 1"
+JOB 3ml_sen_67.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_4 JOBNAME="3ml_sen_67.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 4 1"
+JOB 3ml_sen_67.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_5 JOBNAME="3ml_sen_67.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 5 1"
+JOB 3ml_sen_67.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_6 JOBNAME="3ml_sen_67.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 6 1"
+JOB 3ml_sen_67.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_7 JOBNAME="3ml_sen_67.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 7 1"
+JOB 3ml_sen_67.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_8 JOBNAME="3ml_sen_67.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 8 1"
+JOB 3ml_sen_67.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_67.5_9 JOBNAME="3ml_sen_67.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 67.5 9 1"
+JOB 3ml_sen_70.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_0 JOBNAME="3ml_sen_70.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 0 1"
+JOB 3ml_sen_70.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_1 JOBNAME="3ml_sen_70.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 1 1"
+JOB 3ml_sen_70.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_2 JOBNAME="3ml_sen_70.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 2 1"
+JOB 3ml_sen_70.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_3 JOBNAME="3ml_sen_70.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 3 1"
+JOB 3ml_sen_70.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_4 JOBNAME="3ml_sen_70.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 4 1"
+JOB 3ml_sen_70.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_5 JOBNAME="3ml_sen_70.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 5 1"
+JOB 3ml_sen_70.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_6 JOBNAME="3ml_sen_70.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 6 1"
+JOB 3ml_sen_70.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_7 JOBNAME="3ml_sen_70.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 7 1"
+JOB 3ml_sen_70.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_8 JOBNAME="3ml_sen_70.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 8 1"
+JOB 3ml_sen_70.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_70.0_9 JOBNAME="3ml_sen_70.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 70.0 9 1"
+JOB 3ml_sen_72.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_0 JOBNAME="3ml_sen_72.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 0 1"
+JOB 3ml_sen_72.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_1 JOBNAME="3ml_sen_72.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 1 1"
+JOB 3ml_sen_72.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_2 JOBNAME="3ml_sen_72.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 2 1"
+JOB 3ml_sen_72.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_3 JOBNAME="3ml_sen_72.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 3 1"
+JOB 3ml_sen_72.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_4 JOBNAME="3ml_sen_72.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 4 1"
+JOB 3ml_sen_72.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_5 JOBNAME="3ml_sen_72.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 5 1"
+JOB 3ml_sen_72.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_6 JOBNAME="3ml_sen_72.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 6 1"
+JOB 3ml_sen_72.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_7 JOBNAME="3ml_sen_72.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 7 1"
+JOB 3ml_sen_72.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_8 JOBNAME="3ml_sen_72.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 8 1"
+JOB 3ml_sen_72.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_72.5_9 JOBNAME="3ml_sen_72.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 72.5 9 1"
+JOB 3ml_sen_75.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_0 JOBNAME="3ml_sen_75.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 0 1"
+JOB 3ml_sen_75.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_1 JOBNAME="3ml_sen_75.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 1 1"
+JOB 3ml_sen_75.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_2 JOBNAME="3ml_sen_75.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 2 1"
+JOB 3ml_sen_75.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_3 JOBNAME="3ml_sen_75.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 3 1"
+JOB 3ml_sen_75.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_4 JOBNAME="3ml_sen_75.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 4 1"
+JOB 3ml_sen_75.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_5 JOBNAME="3ml_sen_75.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 5 1"
+JOB 3ml_sen_75.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_6 JOBNAME="3ml_sen_75.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 6 1"
+JOB 3ml_sen_75.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_7 JOBNAME="3ml_sen_75.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 7 1"
+JOB 3ml_sen_75.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_8 JOBNAME="3ml_sen_75.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 8 1"
+JOB 3ml_sen_75.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_75.0_9 JOBNAME="3ml_sen_75.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 75.0 9 1"
+JOB 3ml_sen_77.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_0 JOBNAME="3ml_sen_77.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 0 1"
+JOB 3ml_sen_77.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_1 JOBNAME="3ml_sen_77.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 1 1"
+JOB 3ml_sen_77.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_2 JOBNAME="3ml_sen_77.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 2 1"
+JOB 3ml_sen_77.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_3 JOBNAME="3ml_sen_77.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 3 1"
+JOB 3ml_sen_77.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_4 JOBNAME="3ml_sen_77.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 4 1"
+JOB 3ml_sen_77.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_5 JOBNAME="3ml_sen_77.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 5 1"
+JOB 3ml_sen_77.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_6 JOBNAME="3ml_sen_77.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 6 1"
+JOB 3ml_sen_77.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_7 JOBNAME="3ml_sen_77.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 7 1"
+JOB 3ml_sen_77.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_8 JOBNAME="3ml_sen_77.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 8 1"
+JOB 3ml_sen_77.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_77.5_9 JOBNAME="3ml_sen_77.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 77.5 9 1"
+JOB 3ml_sen_80.0_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_0 JOBNAME="3ml_sen_80.0_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 0 1"
+JOB 3ml_sen_80.0_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_1 JOBNAME="3ml_sen_80.0_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 1 1"
+JOB 3ml_sen_80.0_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_2 JOBNAME="3ml_sen_80.0_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 2 1"
+JOB 3ml_sen_80.0_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_3 JOBNAME="3ml_sen_80.0_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 3 1"
+JOB 3ml_sen_80.0_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_4 JOBNAME="3ml_sen_80.0_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 4 1"
+JOB 3ml_sen_80.0_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_5 JOBNAME="3ml_sen_80.0_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 5 1"
+JOB 3ml_sen_80.0_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_6 JOBNAME="3ml_sen_80.0_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 6 1"
+JOB 3ml_sen_80.0_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_7 JOBNAME="3ml_sen_80.0_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 7 1"
+JOB 3ml_sen_80.0_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_8 JOBNAME="3ml_sen_80.0_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 8 1"
+JOB 3ml_sen_80.0_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_80.0_9 JOBNAME="3ml_sen_80.0_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 80.0 9 1"
+JOB 3ml_sen_82.5_0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_0 JOBNAME="3ml_sen_82.5_0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 0 1"
+JOB 3ml_sen_82.5_1 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_1 JOBNAME="3ml_sen_82.5_1" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 1 1"
+JOB 3ml_sen_82.5_2 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_2 JOBNAME="3ml_sen_82.5_2" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 2 1"
+JOB 3ml_sen_82.5_3 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_3 JOBNAME="3ml_sen_82.5_3" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 3 1"
+JOB 3ml_sen_82.5_4 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_4 JOBNAME="3ml_sen_82.5_4" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 4 1"
+JOB 3ml_sen_82.5_5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_5 JOBNAME="3ml_sen_82.5_5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 5 1"
+JOB 3ml_sen_82.5_6 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_6 JOBNAME="3ml_sen_82.5_6" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 6 1"
+JOB 3ml_sen_82.5_7 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_7 JOBNAME="3ml_sen_82.5_7" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 7 1"
+JOB 3ml_sen_82.5_8 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_8 JOBNAME="3ml_sen_82.5_8" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 8 1"
+JOB 3ml_sen_82.5_9 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/submit.sub
+VARS 3ml_sen_82.5_9 JOBNAME="3ml_sen_82.5_9" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/run.sh 82.5 9 1"

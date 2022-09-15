@@ -1,0 +1,136 @@
+JOB 3ml_convertflux_-85.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-85.0 JOBNAME="3ml_convertflux_-85.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -85.0"
+JOB 3ml_convertflux_-82.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-82.5 JOBNAME="3ml_convertflux_-82.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -82.5"
+JOB 3ml_convertflux_-80.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-80.0 JOBNAME="3ml_convertflux_-80.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -80.0"
+JOB 3ml_convertflux_-77.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-77.5 JOBNAME="3ml_convertflux_-77.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -77.5"
+JOB 3ml_convertflux_-75.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-75.0 JOBNAME="3ml_convertflux_-75.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -75.0"
+JOB 3ml_convertflux_-72.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-72.5 JOBNAME="3ml_convertflux_-72.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -72.5"
+JOB 3ml_convertflux_-70.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-70.0 JOBNAME="3ml_convertflux_-70.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -70.0"
+JOB 3ml_convertflux_-67.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-67.5 JOBNAME="3ml_convertflux_-67.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -67.5"
+JOB 3ml_convertflux_-65.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-65.0 JOBNAME="3ml_convertflux_-65.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -65.0"
+JOB 3ml_convertflux_-62.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-62.5 JOBNAME="3ml_convertflux_-62.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -62.5"
+JOB 3ml_convertflux_-60.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-60.0 JOBNAME="3ml_convertflux_-60.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -60.0"
+JOB 3ml_convertflux_-57.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-57.5 JOBNAME="3ml_convertflux_-57.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -57.5"
+JOB 3ml_convertflux_-55.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-55.0 JOBNAME="3ml_convertflux_-55.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -55.0"
+JOB 3ml_convertflux_-52.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-52.5 JOBNAME="3ml_convertflux_-52.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -52.5"
+JOB 3ml_convertflux_-50.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-50.0 JOBNAME="3ml_convertflux_-50.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -50.0"
+JOB 3ml_convertflux_-47.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-47.5 JOBNAME="3ml_convertflux_-47.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -47.5"
+JOB 3ml_convertflux_-45.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-45.0 JOBNAME="3ml_convertflux_-45.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -45.0"
+JOB 3ml_convertflux_-42.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-42.5 JOBNAME="3ml_convertflux_-42.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -42.5"
+JOB 3ml_convertflux_-40.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-40.0 JOBNAME="3ml_convertflux_-40.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -40.0"
+JOB 3ml_convertflux_-37.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-37.5 JOBNAME="3ml_convertflux_-37.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -37.5"
+JOB 3ml_convertflux_-35.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-35.0 JOBNAME="3ml_convertflux_-35.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -35.0"
+JOB 3ml_convertflux_-32.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-32.5 JOBNAME="3ml_convertflux_-32.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -32.5"
+JOB 3ml_convertflux_-30.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-30.0 JOBNAME="3ml_convertflux_-30.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -30.0"
+JOB 3ml_convertflux_-27.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-27.5 JOBNAME="3ml_convertflux_-27.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -27.5"
+JOB 3ml_convertflux_-25.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-25.0 JOBNAME="3ml_convertflux_-25.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -25.0"
+JOB 3ml_convertflux_-22.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-22.5 JOBNAME="3ml_convertflux_-22.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -22.5"
+JOB 3ml_convertflux_-20.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-20.0 JOBNAME="3ml_convertflux_-20.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -20.0"
+JOB 3ml_convertflux_-17.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-17.5 JOBNAME="3ml_convertflux_-17.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -17.5"
+JOB 3ml_convertflux_-15.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-15.0 JOBNAME="3ml_convertflux_-15.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -15.0"
+JOB 3ml_convertflux_-12.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-12.5 JOBNAME="3ml_convertflux_-12.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -12.5"
+JOB 3ml_convertflux_-10.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-10.0 JOBNAME="3ml_convertflux_-10.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -10.0"
+JOB 3ml_convertflux_-7.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-7.5 JOBNAME="3ml_convertflux_-7.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -7.5"
+JOB 3ml_convertflux_-5.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-5.0 JOBNAME="3ml_convertflux_-5.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -5.0"
+JOB 3ml_convertflux_-2.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_-2.5 JOBNAME="3ml_convertflux_-2.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh -2.5"
+JOB 3ml_convertflux_0.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_0.0 JOBNAME="3ml_convertflux_0.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 0.0"
+JOB 3ml_convertflux_2.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_2.5 JOBNAME="3ml_convertflux_2.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 2.5"
+JOB 3ml_convertflux_5.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_5.0 JOBNAME="3ml_convertflux_5.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 5.0"
+JOB 3ml_convertflux_7.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_7.5 JOBNAME="3ml_convertflux_7.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 7.5"
+JOB 3ml_convertflux_10.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_10.0 JOBNAME="3ml_convertflux_10.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 10.0"
+JOB 3ml_convertflux_12.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_12.5 JOBNAME="3ml_convertflux_12.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 12.5"
+JOB 3ml_convertflux_15.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_15.0 JOBNAME="3ml_convertflux_15.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 15.0"
+JOB 3ml_convertflux_17.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_17.5 JOBNAME="3ml_convertflux_17.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 17.5"
+JOB 3ml_convertflux_20.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_20.0 JOBNAME="3ml_convertflux_20.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 20.0"
+JOB 3ml_convertflux_22.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_22.5 JOBNAME="3ml_convertflux_22.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 22.5"
+JOB 3ml_convertflux_25.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_25.0 JOBNAME="3ml_convertflux_25.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 25.0"
+JOB 3ml_convertflux_27.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_27.5 JOBNAME="3ml_convertflux_27.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 27.5"
+JOB 3ml_convertflux_30.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_30.0 JOBNAME="3ml_convertflux_30.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 30.0"
+JOB 3ml_convertflux_32.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_32.5 JOBNAME="3ml_convertflux_32.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 32.5"
+JOB 3ml_convertflux_35.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_35.0 JOBNAME="3ml_convertflux_35.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 35.0"
+JOB 3ml_convertflux_37.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_37.5 JOBNAME="3ml_convertflux_37.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 37.5"
+JOB 3ml_convertflux_40.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_40.0 JOBNAME="3ml_convertflux_40.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 40.0"
+JOB 3ml_convertflux_42.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_42.5 JOBNAME="3ml_convertflux_42.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 42.5"
+JOB 3ml_convertflux_45.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_45.0 JOBNAME="3ml_convertflux_45.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 45.0"
+JOB 3ml_convertflux_47.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_47.5 JOBNAME="3ml_convertflux_47.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 47.5"
+JOB 3ml_convertflux_50.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_50.0 JOBNAME="3ml_convertflux_50.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 50.0"
+JOB 3ml_convertflux_52.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_52.5 JOBNAME="3ml_convertflux_52.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 52.5"
+JOB 3ml_convertflux_55.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_55.0 JOBNAME="3ml_convertflux_55.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 55.0"
+JOB 3ml_convertflux_57.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_57.5 JOBNAME="3ml_convertflux_57.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 57.5"
+JOB 3ml_convertflux_60.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_60.0 JOBNAME="3ml_convertflux_60.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 60.0"
+JOB 3ml_convertflux_62.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_62.5 JOBNAME="3ml_convertflux_62.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 62.5"
+JOB 3ml_convertflux_65.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_65.0 JOBNAME="3ml_convertflux_65.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 65.0"
+JOB 3ml_convertflux_67.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_67.5 JOBNAME="3ml_convertflux_67.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 67.5"
+JOB 3ml_convertflux_70.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_70.0 JOBNAME="3ml_convertflux_70.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 70.0"
+JOB 3ml_convertflux_72.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_72.5 JOBNAME="3ml_convertflux_72.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 72.5"
+JOB 3ml_convertflux_75.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_75.0 JOBNAME="3ml_convertflux_75.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 75.0"
+JOB 3ml_convertflux_77.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_77.5 JOBNAME="3ml_convertflux_77.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 77.5"
+JOB 3ml_convertflux_80.0 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_80.0 JOBNAME="3ml_convertflux_80.0" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 80.0"
+JOB 3ml_convertflux_82.5 /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/submit.sub
+VARS 3ml_convertflux_82.5 JOBNAME="3ml_convertflux_82.5" command="bash /data/condor_builds/users/jasonfan/3ml_sensitivity_v42/flux/run.sh 82.5"
